@@ -1,0 +1,1448 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.21f1 (a38c86f6690f) revision 10718342'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 22000.318; Version 2009; 64bit' Language: 'es' Physical Memory: 16134 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.21f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/erict/Documents/ITESM CEM/5to SEMESTER/clase nueva/ActividadIntegradora
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51468
+Successfully changed project path to: C:/Users/erict/Documents/ITESM CEM/5to SEMESTER/clase nueva/ActividadIntegradora
+C:/Users/erict/Documents/ITESM CEM/5to SEMESTER/clase nueva/ActividadIntegradora
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 53.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.21f1 (a38c86f6690f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/erict/Documents/ITESM CEM/5to SEMESTER/clase nueva/ActividadIntegradora/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics (ID=0x9b41)
+    Vendor:   
+    VRAM:     8067 MB
+    Driver:   27.20.100.9749
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56660
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001858 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 50.13 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.370 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1370ms)
+		BeginReloadAssembly (65ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (602ms)
+			LoadAssemblies (62ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (200ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (229ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (51ms)
+				BeforeProcessingInitializeOnLoad (21ms)
+				ProcessInitializeOnLoadAttributes (110ms)
+				ProcessInitializeOnLoadMethodAttributes (39ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006124 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.664 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1681ms)
+		BeginReloadAssembly (254ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (1311ms)
+			LoadAssemblies (151ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (490ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (69ms)
+			SetupLoadedEditorAssemblies (464ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (123ms)
+				ProcessInitializeOnLoadAttributes (310ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1849 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.2 MB.
+System memory in use after: 84.2 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2282.
+Total: 4.463000 ms (FindLiveObjects: 0.229300 ms CreateObjectMapping: 0.082000 ms MarkObjects: 4.009300 ms  DeleteObjects: 0.140100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/rack3.prefab
+  artifactKey: Guid(ac9a66d7cafaffd419230be87013e415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/rack3.prefab using Guid(ac9a66d7cafaffd419230be87013e415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f78d87acefabbd7a216dfa4f846ed8bb') in 0.337019 seconds 
+  Import took 0.347827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000680 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/rack.prefab
+  artifactKey: Guid(a8b30dd5300c3f24e946864a2647487f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/rack.prefab using Guid(a8b30dd5300c3f24e946864a2647487f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e41830978856b6372a98af58ffa4a5d') in 0.135806 seconds 
+  Import took 0.146462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000647 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/bench.prefab
+  artifactKey: Guid(dadcfd22d95c4fb46a4151afc49af152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/bench.prefab using Guid(dadcfd22d95c4fb46a4151afc49af152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee6263e4968b015a1615f3d899cfc1fd') in 0.114985 seconds 
+  Import took 0.126920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000964 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/stul.prefab
+  artifactKey: Guid(68defb16bd226214795c8785053ffdf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/stul.prefab using Guid(68defb16bd226214795c8785053ffdf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68ba1097be0960eb0c327c05adaac782') in 0.114195 seconds 
+  Import took 0.125417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000693 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs
+  artifactKey: Guid(560d36abad8dca743a101d73ce5d49cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs using Guid(560d36abad8dca743a101d73ce5d49cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb455d5e7b0ebbeef43c3eeb5fb21cbb') in 0.003228 seconds 
+  Import took 0.009136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000448 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/rack2.prefab
+  artifactKey: Guid(cc22244818209f2489e42dc7a8e13a01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/rack2.prefab using Guid(cc22244818209f2489e42dc7a8e13a01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6894a7e7e84c754e90445b3e352a7628') in 0.110896 seconds 
+  Import took 0.122460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000595 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/table.prefab
+  artifactKey: Guid(373095bd3f7ddb948bce9f5ece6ef02d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/table.prefab using Guid(373095bd3f7ddb948bce9f5ece6ef02d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3eb8d02a00fdf30f004b4f2d00673abf') in 0.106154 seconds 
+  Import took 0.118478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000690 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/stairs.prefab
+  artifactKey: Guid(8311e274a41cd424f80df327dd52eba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/stairs.prefab using Guid(8311e274a41cd424f80df327dd52eba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaf6d69e79ac95f42bfe4805286d9ab3') in 0.105409 seconds 
+  Import took 0.116162 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006731 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.759 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1763ms)
+		BeginReloadAssembly (206ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (57ms)
+		EndReloadAssembly (1443ms)
+			LoadAssemblies (149ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (497ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (61ms)
+			SetupLoadedEditorAssemblies (573ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (144ms)
+				ProcessInitializeOnLoadAttributes (388ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.3 MB.
+System memory in use after: 85.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2292.
+Total: 5.724000 ms (FindLiveObjects: 0.314900 ms CreateObjectMapping: 0.120800 ms MarkObjects: 5.116200 ms  DeleteObjects: 0.169500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004047 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.195 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1199ms)
+		BeginReloadAssembly (142ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (980ms)
+			LoadAssemblies (105ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (328ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (390ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (89ms)
+				ProcessInitializeOnLoadAttributes (277ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.3 MB.
+System memory in use after: 85.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2294.
+Total: 4.350700 ms (FindLiveObjects: 0.272900 ms CreateObjectMapping: 0.106400 ms MarkObjects: 3.886400 ms  DeleteObjects: 0.082800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003623 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.172 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1176ms)
+		BeginReloadAssembly (109ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (1009ms)
+			LoadAssemblies (106ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (302ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (417ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (94ms)
+				ProcessInitializeOnLoadAttributes (288ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.4 MB.
+System memory in use after: 85.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2296.
+Total: 4.513900 ms (FindLiveObjects: 0.219200 ms CreateObjectMapping: 0.082300 ms MarkObjects: 4.120600 ms  DeleteObjects: 0.090100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 281.582206 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Textures/barrels_blue_AlbedoTransparency.tga
+  artifactKey: Guid(ac1c855e1ffbf514997e8f582add254b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Textures/barrels_blue_AlbedoTransparency.tga using Guid(ac1c855e1ffbf514997e8f582add254b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d5aeb000c96197c54f21ad2fbe06943') in 0.063339 seconds 
+  Import took 0.069217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Textures/Furniture_garage_Height.tga
+  artifactKey: Guid(04cc4f7a5d8e3b84dbd71bf6a304eadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Textures/Furniture_garage_Height.tga using Guid(04cc4f7a5d8e3b84dbd71bf6a304eadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d33add791fba134e35a547a9e9de89d') in 0.036556 seconds 
+  Import took 0.043790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000539 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Textures/barrels_old_Normal.tga
+  artifactKey: Guid(747e6a2e2ed45de4489504ce3f270fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Textures/barrels_old_Normal.tga using Guid(747e6a2e2ed45de4489504ce3f270fcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c324592297b7851bad2713e11b1a3eeb') in 0.246433 seconds 
+  Import took 0.252481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Textures/Furniture_garage_Metallic.tga
+  artifactKey: Guid(82686e8e979a25548a728c17a154d1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Textures/Furniture_garage_Metallic.tga using Guid(82686e8e979a25548a728c17a154d1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c74643c0ea3e0ad6c121064981b14895') in 0.036343 seconds 
+  Import took 0.045224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000791 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Textures/barrels_purple_AlbedoTransparency.tga
+  artifactKey: Guid(8f07ff49a93981740b5d6298c61dc047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Textures/barrels_purple_AlbedoTransparency.tga using Guid(8f07ff49a93981740b5d6298c61dc047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aa5b2ba5f985ef2741fef9eb7c7416a') in 0.028659 seconds 
+  Import took 0.036117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000639 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Textures/Furniture_garage_Mixed_AO.tga
+  artifactKey: Guid(9d30a79d0df4caa478d5a88985af90ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Textures/Furniture_garage_Mixed_AO.tga using Guid(9d30a79d0df4caa478d5a88985af90ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79644eeff82c55b724fc9ed35c947966') in 0.039789 seconds 
+  Import took 0.049146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000800 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Textures/Furniture_garage_Roughness.tga
+  artifactKey: Guid(db6c1db9092c75e449dd9cd4243a194a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Textures/Furniture_garage_Roughness.tga using Guid(db6c1db9092c75e449dd9cd4243a194a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c198caea6f90fe9e75da27a4a76015b') in 0.031244 seconds 
+  Import took 0.041207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000684 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Textures/barrels_red_AlbedoTransparency.tga
+  artifactKey: Guid(007cac6ec26063244a58afa32bf19208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Textures/barrels_red_AlbedoTransparency.tga using Guid(007cac6ec26063244a58afa32bf19208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '142cd49a1729075a9aa1c4d24e3fd75a') in 0.030807 seconds 
+  Import took 0.042064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001510 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Textures/barrels_purple_MetallicSmoothness.tga
+  artifactKey: Guid(fc3776e9ebc2ca74c98e66ace42b8360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Textures/barrels_purple_MetallicSmoothness.tga using Guid(fc3776e9ebc2ca74c98e66ace42b8360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11347d080dfe708804f64f2e656a6223') in 0.035811 seconds 
+  Import took 0.044416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000673 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Textures/barrels_old_AlbedoTransparency.tga
+  artifactKey: Guid(34e88dd622d3d954884069be635c2172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Textures/barrels_old_AlbedoTransparency.tga using Guid(34e88dd622d3d954884069be635c2172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68c46f09ae3b469528c1749c60ed1b0a') in 0.032760 seconds 
+  Import took 0.041854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000749 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Textures/barrels_purple_Normal.tga
+  artifactKey: Guid(b5c080317cdd60249837d531d1590cc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Textures/barrels_purple_Normal.tga using Guid(b5c080317cdd60249837d531d1590cc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd347e71f188927b913ffa555736bee3e') in 0.038656 seconds 
+  Import took 0.049725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000828 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Textures/Furniture_garage_Base_Color.tga
+  artifactKey: Guid(ed0c1ec5833081b4697e922b2b3a55b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Textures/Furniture_garage_Base_Color.tga using Guid(ed0c1ec5833081b4697e922b2b3a55b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6a3f7fbf7e54ec0ad7d9afedb7a11b4') in 0.040178 seconds 
+  Import took 0.050468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000935 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Textures/barrels_orange_AlbedoTransparency.tga
+  artifactKey: Guid(d94e578776e73dd49a8eb88f0a417b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Textures/barrels_orange_AlbedoTransparency.tga using Guid(d94e578776e73dd49a8eb88f0a417b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09fa9bde144c2b9ad33ceeeed2742869') in 0.037856 seconds 
+  Import took 0.051050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001004 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Textures/barrels_green_AlbedoTransparency.tga
+  artifactKey: Guid(0133d67333561b4488e20605e266cbeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Textures/barrels_green_AlbedoTransparency.tga using Guid(0133d67333561b4488e20605e266cbeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66aaf11629ff5f59f8de5ee231e2b82b') in 0.035318 seconds 
+  Import took 0.047563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000767 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Textures/Furniture_garage_Normal.tga
+  artifactKey: Guid(66755b61a0b1e1c4ba63904961e55732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Textures/Furniture_garage_Normal.tga using Guid(66755b61a0b1e1c4ba63904961e55732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a5f58665e859b2a763af5e5c5093fce') in 0.066435 seconds 
+  Import took 0.077203 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010179 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.450 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1453ms)
+		BeginReloadAssembly (172ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (44ms)
+		EndReloadAssembly (1194ms)
+			LoadAssemblies (140ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (450ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (409ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (110ms)
+				ProcessInitializeOnLoadAttributes (273ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.4 MB.
+System memory in use after: 85.5 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2301.
+Total: 3.981500 ms (FindLiveObjects: 0.214800 ms CreateObjectMapping: 0.088400 ms MarkObjects: 3.587400 ms  DeleteObjects: 0.089200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003880 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.988 seconds
+Domain Reload Profiling:
+	ReloadAssembly (991ms)
+		BeginReloadAssembly (119ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (813ms)
+			LoadAssemblies (93ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (265ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (318ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (77ms)
+				ProcessInitializeOnLoadAttributes (217ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.4 MB.
+System memory in use after: 85.5 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2303.
+Total: 3.927600 ms (FindLiveObjects: 0.199800 ms CreateObjectMapping: 0.063900 ms MarkObjects: 3.585100 ms  DeleteObjects: 0.077600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008027 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.312 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1315ms)
+		BeginReloadAssembly (164ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (1064ms)
+			LoadAssemblies (117ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (365ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (419ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (104ms)
+				ProcessInitializeOnLoadAttributes (282ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.5 MB.
+System memory in use after: 85.5 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2305.
+Total: 4.310900 ms (FindLiveObjects: 0.259000 ms CreateObjectMapping: 0.089400 ms MarkObjects: 3.871700 ms  DeleteObjects: 0.089100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005983 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.515 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1519ms)
+		BeginReloadAssembly (153ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (1275ms)
+			LoadAssemblies (120ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (427ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (59ms)
+			SetupLoadedEditorAssemblies (513ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (131ms)
+				ProcessInitializeOnLoadAttributes (348ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.4 MB.
+System memory in use after: 85.5 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2307.
+Total: 6.680600 ms (FindLiveObjects: 0.326900 ms CreateObjectMapping: 0.163100 ms MarkObjects: 6.059400 ms  DeleteObjects: 0.128900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006748 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.175 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1179ms)
+		BeginReloadAssembly (133ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (966ms)
+			LoadAssemblies (109ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (355ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (354ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (83ms)
+				ProcessInitializeOnLoadAttributes (246ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.5 MB.
+System memory in use after: 85.5 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2309.
+Total: 3.860200 ms (FindLiveObjects: 0.263100 ms CreateObjectMapping: 0.074900 ms MarkObjects: 3.446100 ms  DeleteObjects: 0.073900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006106 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.731 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1733ms)
+		BeginReloadAssembly (205ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (54ms)
+		EndReloadAssembly (1416ms)
+			LoadAssemblies (174ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (481ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (59ms)
+			SetupLoadedEditorAssemblies (530ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (138ms)
+				ProcessInitializeOnLoadAttributes (350ms)
+				ProcessInitializeOnLoadMethodAttributes (19ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.4 MB.
+System memory in use after: 85.5 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2311.
+Total: 4.835700 ms (FindLiveObjects: 0.244200 ms CreateObjectMapping: 0.077600 ms MarkObjects: 4.316900 ms  DeleteObjects: 0.195200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005219 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.286 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1287ms)
+		BeginReloadAssembly (145ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (1060ms)
+			LoadAssemblies (109ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (361ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (399ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (100ms)
+				ProcessInitializeOnLoadAttributes (270ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1821 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.4 MB.
+System memory in use after: 85.5 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2313.
+Total: 4.165900 ms (FindLiveObjects: 0.231300 ms CreateObjectMapping: 0.080600 ms MarkObjects: 3.776000 ms  DeleteObjects: 0.076200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 34636.119261 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Meshes/rack3.FBX
+  artifactKey: Guid(f3344637ef2d0e349976f98799687a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Meshes/rack3.FBX using Guid(f3344637ef2d0e349976f98799687a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '839ae841d7bf246a8b1629c59a7544b9') in 0.664490 seconds 
+  Import took 0.725215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005494 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Red/tank.prefab
+  artifactKey: Guid(4cd3a6414efb0254bb4aa2bda57f53c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Red/tank.prefab using Guid(4cd3a6414efb0254bb4aa2bda57f53c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58bb191dd3685f0b6a6387b0b3d7ecc2') in 0.285865 seconds 
+  Import took 0.322282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006412 seconds.
+  path: Assets/AssetsStore/Wood Box/Demo/Demo Scene.unity
+  artifactKey: Guid(53018a677bcbb054aa9a56edfcfe3764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Wood Box/Demo/Demo Scene.unity using Guid(53018a677bcbb054aa9a56edfcfe3764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50afe8be16c40f29abd0b3b9d54428d3') in 0.002736 seconds 
+  Import took 0.006031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002369 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Materials/Furniture_garage.mat
+  artifactKey: Guid(0d09fe7f1d532b74cb39b287ad47c416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Materials/Furniture_garage.mat using Guid(0d09fe7f1d532b74cb39b287ad47c416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e0d2c77f7b956990e5f3415c283a1c') in 0.126031 seconds 
+  Import took 0.135467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033505 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Meshes/tank.FBX
+  artifactKey: Guid(5709962af63b1ab438d6c88bd93c4a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Meshes/tank.FBX using Guid(5709962af63b1ab438d6c88bd93c4a6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5e40203be439dc8cb8bc9a584df403f') in 0.026333 seconds 
+  Import took 0.030859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.162859 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Meshes/barrel_cover.FBX
+  artifactKey: Guid(5a1285cf34db6d345897cb5a051a0e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Meshes/barrel_cover.FBX using Guid(5a1285cf34db6d345897cb5a051a0e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8ed1b214a3c640e80b191a94d83d949') in 0.023816 seconds 
+  Import took 0.028411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.076508 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Meshes/bench.FBX
+  artifactKey: Guid(4c8964e20937a184195abd3e324f8b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Meshes/bench.FBX using Guid(4c8964e20937a184195abd3e324f8b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8072429ed5609d3ff232bb6574f54bb') in 0.079570 seconds 
+  Import took 0.088277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028734 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Red/barrel_open.prefab
+  artifactKey: Guid(189734b7ba4b82748bbec69269c5d4e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Red/barrel_open.prefab using Guid(189734b7ba4b82748bbec69269c5d4e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baec5934e7a8048ca451067915d9304a') in 0.019344 seconds 
+  Import took 0.023391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003150 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Materials/barrels_blue.mat
+  artifactKey: Guid(dd91e86e4fecc674e93ddc13d4d59c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Materials/barrels_blue.mat using Guid(dd91e86e4fecc674e93ddc13d4d59c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ec6101db132c2431f7acdc3d4bb5155') in 0.018821 seconds 
+  Import took 0.022827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004129 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Meshes/rack.FBX
+  artifactKey: Guid(cdb1a1ec3a96389419e1d2e2b6067462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Meshes/rack.FBX using Guid(cdb1a1ec3a96389419e1d2e2b6067462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2627dcf9f9b12eb2d0b9fa8069acb97d') in 0.073036 seconds 
+  Import took 0.082801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.127842 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Green/barrel.prefab
+  artifactKey: Guid(26fd6803d90786340bebc0fcaaeb94a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Green/barrel.prefab using Guid(26fd6803d90786340bebc0fcaaeb94a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c351eb1de8ce195196a28bfdc8a4244') in 0.020484 seconds 
+  Import took 0.024841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.092670 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Blue/cylinder_2.prefab
+  artifactKey: Guid(8b68bdedfb4df1a4fbcbbcc25f849772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Blue/cylinder_2.prefab using Guid(8b68bdedfb4df1a4fbcbbcc25f849772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b694b272dbce8063ccb3b6c9430794e3') in 0.019898 seconds 
+  Import took 0.024856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003012 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Red/cylinder_1.prefab
+  artifactKey: Guid(94cada3543d4fbf4d8ad2108ccd48849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Red/cylinder_1.prefab using Guid(94cada3543d4fbf4d8ad2108ccd48849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77b0ab115dc9b3fe6baa1d01fe328094') in 0.018346 seconds 
+  Import took 0.022883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.232997 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Green/cylinder_2.prefab
+  artifactKey: Guid(61250477fa0195a49920ff2bda824871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Green/cylinder_2.prefab using Guid(61250477fa0195a49920ff2bda824871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8e1cd7b86a117a8572cd41649d716d4') in 0.025598 seconds 
+  Import took 0.031304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003186 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Meshes/table.FBX
+  artifactKey: Guid(8f1dd86dd43118040908a785a7ba6a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Meshes/table.FBX using Guid(8f1dd86dd43118040908a785a7ba6a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b5a92f5a8bc3019777e600300fab022') in 0.094431 seconds 
+  Import took 0.104540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003422 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Meshes/rack2.FBX
+  artifactKey: Guid(e123e4d3adfc626429e47ae524d2d8dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Meshes/rack2.FBX using Guid(e123e4d3adfc626429e47ae524d2d8dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0c5c3749c3b106ade3af2c22140d8f1') in 0.077666 seconds 
+  Import took 0.085809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026003 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Green/barrel_cover.prefab
+  artifactKey: Guid(53868ca16970af942b647e5892c23234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Green/barrel_cover.prefab using Guid(53868ca16970af942b647e5892c23234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53e9fd7b317f94f1867f74e7e8918bcb') in 0.020058 seconds 
+  Import took 0.024120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016416 seconds.
+  path: Assets/AssetsStore/Garage_props/Demo/demoSettings.lighting
+  artifactKey: Guid(453856ec16dcb5a4ba1df3408e9b9079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Demo/demoSettings.lighting using Guid(453856ec16dcb5a4ba1df3408e9b9079) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: '77bf2acdbfe746541cb1b926c47181c1') in 0.003924 seconds 
+  Import took 0.007435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003430 seconds.
+  path: Assets/Models/Demo Scene/Demo.unity
+  artifactKey: Guid(77b58a28f538de346ba91280c18e83b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Demo Scene/Demo.unity using Guid(77b58a28f538de346ba91280c18e83b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c86cca81c978cb2f8bd20afcaf703543') in 0.002008 seconds 
+  Import took 0.006134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006486 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Meshes/stul.FBX
+  artifactKey: Guid(d6a41bc954aff8a4dbe90833b3a5491d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Meshes/stul.FBX using Guid(d6a41bc954aff8a4dbe90833b3a5491d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6149e0aac1ef91114932c9d49cc5952f') in 0.072822 seconds 
+  Import took 0.080337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006090 seconds.
+  path: Assets/AssetsStore/Garage_props/Demo/demo.unity
+  artifactKey: Guid(24d85e3c0e76c0441a10cb67e31e4758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Demo/demo.unity using Guid(24d85e3c0e76c0441a10cb67e31e4758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '827c65dbc3a28399cb605d8311125383') in 0.002678 seconds 
+  Import took 0.006151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003964 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Blue/cylinder_1.prefab
+  artifactKey: Guid(4456c48f2c956b545b10ad7726047632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Blue/cylinder_1.prefab using Guid(4456c48f2c956b545b10ad7726047632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db5c3a9b231df0bdb6cad93de8bd690c') in 0.023836 seconds 
+  Import took 0.028572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004781 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Blue/barrel.prefab
+  artifactKey: Guid(56b0a28ca23878543ae517f372038464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Blue/barrel.prefab using Guid(56b0a28ca23878543ae517f372038464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5e7a8b881c9e72dceea7df7d688164b') in 0.021707 seconds 
+  Import took 0.028309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005619 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Materials
+  artifactKey: Guid(b63d2ac520121fe43992290319142bcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Materials using Guid(b63d2ac520121fe43992290319142bcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c87cca789c976e88f7c62aa98ee14ec') in 0.002398 seconds 
+  Import took 0.007041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002999 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Materials/barrels_red.mat
+  artifactKey: Guid(38899c079cdaf7947aa74abbf7a81646) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Materials/barrels_red.mat using Guid(38899c079cdaf7947aa74abbf7a81646) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daf82382b3f3247d0fc62cc4ab7afc2c') in 0.023606 seconds 
+  Import took 0.027982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003610 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Purple/tank.prefab
+  artifactKey: Guid(64d42c0b6f4a5b646a7bd9f67565df90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Purple/tank.prefab using Guid(64d42c0b6f4a5b646a7bd9f67565df90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43a5640767ad8313ea2eac0a00f06e27') in 0.022628 seconds 
+  Import took 0.028097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003999 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Purple/barrel_cover.prefab
+  artifactKey: Guid(749605def3ace9c43853c6191a0fe67c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Purple/barrel_cover.prefab using Guid(749605def3ace9c43853c6191a0fe67c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8441ee073b6fee70b8a5e1b612344764') in 0.020951 seconds 
+  Import took 0.026030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016342 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Meshes/cylinder_2.FBX
+  artifactKey: Guid(b47583bb6d43d084aa8101568b3ba255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Meshes/cylinder_2.FBX using Guid(b47583bb6d43d084aa8101568b3ba255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b1520a209c025e3b1cc43da43dbc46b') in 0.027536 seconds 
+  Import took 0.032205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004315 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Meshes/barrel_open.FBX
+  artifactKey: Guid(dec4e356da82ab342a89629bc655312a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Meshes/barrel_open.FBX using Guid(dec4e356da82ab342a89629bc655312a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f90084274d6c1348528c501f9e3a22e4') in 0.023108 seconds 
+  Import took 0.027038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058676 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Red
+  artifactKey: Guid(60419cf5d92f7e74c9c5b5a5cd357b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Red using Guid(60419cf5d92f7e74c9c5b5a5cd357b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec3f0fad67ed67fa3abb912260868120') in 0.002166 seconds 
+  Import took 0.006310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003937 seconds.
+  path: Assets/AssetsStore/Wood Box/Assets/Materials
+  artifactKey: Guid(214f5f86e721eac42b70cda9e452d201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Wood Box/Assets/Materials using Guid(214f5f86e721eac42b70cda9e452d201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83d5878f1d81c071dab3aab7c92b476f') in 0.001603 seconds 
+  Import took 0.004759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004811 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Red/cylinder_2.prefab
+  artifactKey: Guid(d99d38c91392446419dedc36df3d511b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Red/cylinder_2.prefab using Guid(d99d38c91392446419dedc36df3d511b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b514440b07a69d02c66f3a456542ad3') in 0.017840 seconds 
+  Import took 0.021592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002650 seconds.
+  path: Assets/AssetsStore/Wood Box/Assets/Textures
+  artifactKey: Guid(66501adf1808dcf4095c17b2c295c139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Wood Box/Assets/Textures using Guid(66501adf1808dcf4095c17b2c295c139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94f016e1d1b853812551842a2629c408') in 0.001705 seconds 
+  Import took 0.005582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009487 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Meshes/barrel.FBX
+  artifactKey: Guid(730ec7caf81adcf459ff3629caa2004b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Meshes/barrel.FBX using Guid(730ec7caf81adcf459ff3629caa2004b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '871ac44145be6a77310d9a024da10d7f') in 0.022859 seconds 
+  Import took 0.027616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003160 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Materials/barrels_old.mat
+  artifactKey: Guid(c91dcee696abaf840b9d8266b1f2d516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Materials/barrels_old.mat using Guid(c91dcee696abaf840b9d8266b1f2d516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f492af218416f60371abf5b9fa181624') in 0.120467 seconds 
+  Import took 0.124985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005301 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Meshes/cylinder_1.FBX
+  artifactKey: Guid(f9f735d4d2557ce4f86d5de837df5d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Meshes/cylinder_1.FBX using Guid(f9f735d4d2557ce4f86d5de837df5d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2508752e86afd4e9c77534540d49a93') in 0.023413 seconds 
+  Import took 0.028059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002717 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Materials/barrels_green.mat
+  artifactKey: Guid(e5f667a9495cad146bb6f949cb376e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Materials/barrels_green.mat using Guid(e5f667a9495cad146bb6f949cb376e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af7942df59b05c3884d9c01cbad6866c') in 0.048589 seconds 
+  Import took 0.053628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002768 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Textures
+  artifactKey: Guid(8c311b9c005a1c54a8b7f4b27344f2d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Textures using Guid(8c311b9c005a1c54a8b7f4b27344f2d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbd31ff785f95768b929e80b5c018425') in 0.001711 seconds 
+  Import took 0.005294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003558 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Blue/barrel_open.prefab
+  artifactKey: Guid(420947eeb378c394985549149fc2df7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Blue/barrel_open.prefab using Guid(420947eeb378c394985549149fc2df7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30d2b6ad6d979c8155acdcbd9252cc98') in 0.018750 seconds 
+  Import took 0.022949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007027 seconds.
+  path: Assets/Models/Demo Scene/DemoSettings.lighting
+  artifactKey: Guid(408e9af7272e8674c8ab3ae318ea129d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Demo Scene/DemoSettings.lighting using Guid(408e9af7272e8674c8ab3ae318ea129d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: '068802739858ba1dd75e18edd469e4b0') in 0.003379 seconds 
+  Import took 0.009572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058174 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2054f635973dcf51db0b17712169ce68') in 0.002451 seconds 
+  Import took 0.006561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003201 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Purple/cylinder_1.prefab
+  artifactKey: Guid(fe52eda674672b544808332c9495fdec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Purple/cylinder_1.prefab using Guid(fe52eda674672b544808332c9495fdec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54096ee91f67920c57973a9bb32db63f') in 0.022242 seconds 
+  Import took 0.026817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003853 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Red/barrel_cover.prefab
+  artifactKey: Guid(2249d93a091c217489ec69842ce78ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Red/barrel_cover.prefab using Guid(2249d93a091c217489ec69842ce78ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45516e914f2c61fbbc7394e9fce640ad') in 0.022121 seconds 
+  Import took 0.027981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007317 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Old/barrel_open.prefab
+  artifactKey: Guid(10f7172a4aef863459e7dd325ff2f0cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Old/barrel_open.prefab using Guid(10f7172a4aef863459e7dd325ff2f0cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '308e95195a897734ec00d6681f0d20e0') in 0.019663 seconds 
+  Import took 0.024500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002477 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Green
+  artifactKey: Guid(2b40524beaf991947908b9bd61e2dcca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Green using Guid(2b40524beaf991947908b9bd61e2dcca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e66199e0f754e453d23a90116496538') in 0.002788 seconds 
+  Import took 0.007763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.094002 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Purple/cylinder_2.prefab
+  artifactKey: Guid(93ac813dced96b145957f9e123e5dfaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Purple/cylinder_2.prefab using Guid(93ac813dced96b145957f9e123e5dfaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6145cdbba9cfc367eeea41a8696c6e8b') in 0.049952 seconds 
+  Import took 0.056792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004716 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Old/barrel_cover.prefab
+  artifactKey: Guid(8712ca1b35c662f429395adc5d161aa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Old/barrel_cover.prefab using Guid(8712ca1b35c662f429395adc5d161aa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf480fbd7b14c57aa9430980c625e68e') in 0.019134 seconds 
+  Import took 0.050200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003302 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Green/tank.prefab
+  artifactKey: Guid(035789733d37b2842b41f631a729ef32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Green/tank.prefab using Guid(035789733d37b2842b41f631a729ef32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14dd4b69c0bef0f37012497ea37da2f7') in 0.030158 seconds 
+  Import took 0.035645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011823 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Purple/barrel.prefab
+  artifactKey: Guid(db928c2abbbf5de4b9c76c22e8ae7a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Purple/barrel.prefab using Guid(db928c2abbbf5de4b9c76c22e8ae7a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6a829f05ac9b45a4e2ff4c6d390fc6d') in 0.057411 seconds 
+  Import took 0.066706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003425 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets
+  artifactKey: Guid(a9598643d42586b4ca0d48f012646174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets using Guid(a9598643d42586b4ca0d48f012646174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f2539835c9c375a6519eefb1e8a015c') in 0.003907 seconds 
+  Import took 0.011647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002544 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Red/barrel.prefab
+  artifactKey: Guid(890d3cdefd5cb1f44b36dddaa3c045f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Red/barrel.prefab using Guid(890d3cdefd5cb1f44b36dddaa3c045f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f45fa91300758e0dbc7a6ffe2bccb2d7') in 0.022498 seconds 
+  Import took 0.029217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004805 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Meshes/stairs.FBX
+  artifactKey: Guid(640218b3abee8994ea8d25f734089ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Meshes/stairs.FBX using Guid(640218b3abee8994ea8d25f734089ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fca40025669fe9fc0ce4cc42a5350c2e') in 0.100688 seconds 
+  Import took 0.109908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003995 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Green/barrel_open.prefab
+  artifactKey: Guid(a2cd4efde443e274b8c10359fa084ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Green/barrel_open.prefab using Guid(a2cd4efde443e274b8c10359fa084ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcbf4b42ff39d031e2887491df442972') in 0.021174 seconds 
+  Import took 0.026870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039151 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Old/cylinder_1.prefab
+  artifactKey: Guid(b45ff9acb9d0be743831f57634b12cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Old/cylinder_1.prefab using Guid(b45ff9acb9d0be743831f57634b12cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '952cfbb0aacd787c00e650d9c40ae6a8') in 0.013793 seconds 
+  Import took 0.018052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024857 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Old/cylinder_2.prefab
+  artifactKey: Guid(e2537b5bb951a324aa7cbec852cce42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Old/cylinder_2.prefab using Guid(e2537b5bb951a324aa7cbec852cce42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f8bab28c58cf5c5fc42cf2ab0fb87c6') in 0.014230 seconds 
+  Import took 0.017881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003063 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Materials/barrels_purple.mat
+  artifactKey: Guid(6158f3288a60f964b905c15464ecd88c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Materials/barrels_purple.mat using Guid(6158f3288a60f964b905c15464ecd88c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57f3947afb702eb98b1a7ec2a051ba69') in 0.020120 seconds 
+  Import took 0.024150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005480 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Blue/tank.prefab
+  artifactKey: Guid(cdf8d18ac47e29948b5fbff01c2d975c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Blue/tank.prefab using Guid(cdf8d18ac47e29948b5fbff01c2d975c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5df2b72c9f54e0e2d95e44edabc1bcb') in 0.018259 seconds 
+  Import took 0.022292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006900 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Old/barrel.prefab
+  artifactKey: Guid(8db4a48d367067044b01f15159a8dc08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Old/barrel.prefab using Guid(8db4a48d367067044b01f15159a8dc08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28615602699bf44fc82761952793008a') in 0.013697 seconds 
+  Import took 0.018096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001968 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Meshes
+  artifactKey: Guid(46ef0579f15d53947b1a65996dcd23dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Meshes using Guid(46ef0579f15d53947b1a65996dcd23dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f74c3e6b97abd626533d3ded9ca0db51') in 0.001713 seconds 
+  Import took 0.004952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033164 seconds.
+  path: Assets/AssetsStore/Garage_props
+  artifactKey: Guid(9d1774c3cca4cb2439252ac11156d6bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props using Guid(9d1774c3cca4cb2439252ac11156d6bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1b03ccb81a0b6815f5b9b63c5bd245f') in 0.002329 seconds 
+  Import took 0.006094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.443832 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Old/tank.prefab
+  artifactKey: Guid(93136976df9d6534680557715ad7f884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Old/tank.prefab using Guid(93136976df9d6534680557715ad7f884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ba71638624a106f68e00cbe20b328a7') in 0.014972 seconds 
+  Import took 0.019469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009165 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Green/cylinder_1.prefab
+  artifactKey: Guid(ad92ce8018b221a49833c60aa7605105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Green/cylinder_1.prefab using Guid(ad92ce8018b221a49833c60aa7605105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '735e5efdf5c6dee2bb6a20c3a7721806') in 0.018130 seconds 
+  Import took 0.022375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002183 seconds.
+  path: Assets/AssetsStore/Garage_props/Demo
+  artifactKey: Guid(f491ddd223054ae41b0ef9bb4b1a9ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Demo using Guid(f491ddd223054ae41b0ef9bb4b1a9ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bd588c40ce857953bdc81a4d7e63cad') in 0.001755 seconds 
+  Import took 0.005178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002409 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Purple/barrel_open.prefab
+  artifactKey: Guid(4c34d7e62a40c5e40b4d6d3456c630d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Purple/barrel_open.prefab using Guid(4c34d7e62a40c5e40b4d6d3456c630d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73008f36f5e7c922d015734113d1359a') in 0.018752 seconds 
+  Import took 0.022614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053533 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Blue
+  artifactKey: Guid(27d2962ed70ce9a468294ee9216b91ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Blue using Guid(27d2962ed70ce9a468294ee9216b91ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be1d002c8d04e2bdd3f7b402db706f3e') in 0.002053 seconds 
+  Import took 0.006028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.092512 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Purple
+  artifactKey: Guid(5ee165e74f9d90f4a96c7b5fe379be14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Purple using Guid(5ee165e74f9d90f4a96c7b5fe379be14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ceb301d126f38001dd3dc84b65d1642') in 0.002303 seconds 
+  Import took 0.006406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062389 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Old
+  artifactKey: Guid(7ec12b1a9c40846428ea833d93e8a715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Old using Guid(7ec12b1a9c40846428ea833d93e8a715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6982fef2ea4d1a7d9b49111db710f7e0') in 0.001691 seconds 
+  Import took 0.005353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010249 seconds.
+  path: Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Blue/barrel_cover.prefab
+  artifactKey: Guid(b9c9571fd029baf4d9418b41058f8a37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Garage_props/Assets/Prefabs/Barrels_Blue/barrel_cover.prefab using Guid(b9c9571fd029baf4d9418b41058f8a37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a2e1fdec2792d463698b93838d86547') in 0.018692 seconds 
+  Import took 0.022755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002298 seconds.
+  path: Assets/Models
+  artifactKey: Guid(6972fe9c86dd09445b495ed075978548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models using Guid(6972fe9c86dd09445b495ed075978548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c11ff12f9909fb303f37b38a6591e7f') in 0.002359 seconds 
+  Import took 0.005662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002562 seconds.
+  path: Assets/AssetsStore/Wood Box/Demo/Demo SceneSettings.lighting
+  artifactKey: Guid(49924a73b62692c4baecc3a45ad523d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetsStore/Wood Box/Demo/Demo SceneSettings.lighting using Guid(49924a73b62692c4baecc3a45ad523d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: '81de8a8a923f506e7d66b54c5b7777c4') in 0.002758 seconds 
+  Import took 0.006097 seconds .
+
